@@ -1,2 +1,0 @@
-# minicurso-linux
-# minicurso-linux
